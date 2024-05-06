@@ -1,0 +1,1558 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+.home{
+	color: #2f4491;
+	font-size:20px;
+	text-decoration:none;
+	position:absolute;
+	left:45%
+}
+.GTJDlogoprinciple{
+	position:absolute;
+	 max-width: min-content;
+	 right:60%
+}
+.services{
+	color: #2f4491;
+	font-size:20px;
+	text-decoration:none;
+	position:absolute;
+	left:62%
+	
+}
+.contact{
+	color: #2f4491;
+	font-size:20px;
+	text-decoration:none;
+	position:absolute;
+	left:80%
+}
+.homepageimage{
+	position: absolute;
+	top: 120px;
+	right: 0px;
+	width:800px;
+	height:400px;
+	max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+.space{
+	overflow:auto;
+}
+.Topcenter{
+	position:relative;
+	top: 200px;
+	color: white;
+	font-size: 35px;
+	text-align: center;
+	font-size:7vw;
+	
+
+		
+}
+.firstmiddlecenter{
+	position: relative;
+	top: 202px;
+	color: white;
+	font-size: 35px;
+	text-align:center;
+	font-size:7vw;
+
+}
+.middlecenter{
+position: relative;
+top: 210px;
+color: white;
+font-size: 35px;
+text-align:center;
+font-size:7vw;
+}
+.lowercenter{
+	position: relative;
+	top: 220px;
+	color: white;
+	font-size: 40px;
+	text-align:center;
+	font-size:9vw;
+}
+.firstext{
+	position: relative;
+	top: 300px;
+	color: rgb(0, 0, 0);
+	font-size: 35px;
+	font-family:Verdana;
+	text-align:center;
+	font-size:7vw;
+}
+.secondtext{
+	position: relative;
+	top: 300px;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+	text-align:center;
+	font-size:5vw;
+
+}
+.batterypoppingslay{
+	position:absolute; 
+    margin-left: center;
+    margin-right: center;
+    display:none;
+    width:50%;
+	top:800px;
+	
+	min-width: 200px;
+	min-height:100px;
+	max-width: 300px;
+	max-height:200px;
+	border:7px solid #dbcd9a;
+	
+}
+.firstcheck{
+	position: absolute;
+	top: 805px;
+	left: 16%;
+	color: rgb(33, 49, 228);
+	font-size: 35px;
+	display:none;
+	font-size:7vw;
+	
+}
+.firstpoint{
+	position: relative;
+	top: 500px;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+	text-align:center;
+	font-size:7vw;
+}
+.secondcheck{
+	position: absolute;
+	top: 1225px;
+	left: 24%;
+	color: rgb(33, 49, 228);
+	font-size: 35px;
+	display:none;
+}
+.secondpoint{
+	position: relative;
+	top: 550px;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+	text-align:center;
+	font-size:7vw;
+}
+.thirdcheck{
+	position: absolute;
+	top: 1260px;
+	left: 20%;
+	color: rgb(33, 49, 228);
+	font-size: 35px;
+	display:none;
+}
+.thirdpoint{
+	position: relative;
+	top: 600px;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+	text-align:center;
+	font-size:7vw;
+}
+.fourthcheck{
+	position: absolute;
+	top: 1300px;
+	left: 25%;
+	color: rgb(33, 49, 228);
+	font-size: 35px;
+	display:none;
+}
+.fourthpoint{
+	position: relative;
+	top: 650px;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+	text-align:center;
+	font-size:7vw;
+}
+
+.blackbrickwall{
+	position:absolute;
+	top:1350px; 
+	right:0px; 
+	width:500px; 
+	height:600px;
+	max-height:700px;
+}
+.sixpoint{
+	position: relative;
+	top: 800px;
+	font-family:verdana;
+	color: rgb(255, 255, 255);
+	font-size: 35px;
+	text-align:center;
+	font-size:8vw;
+}
+.sixcheck{
+	position: relative;
+	top: 800px;
+	color: rgb(33, 66, 228);
+	font-size: 75px;
+	text-align:center;
+	font-size:15vw;
+}
+.sixthpoint{
+	position: relative;
+	top: 600px;
+	font-family:verdana;
+	color: rgb(33, 66, 228);
+	font-size: 35px;
+	text-align:center;
+	font-size:8vw;
+}
+.sevencheck{
+	position: relative;
+	top: 850px;
+	color: rgb(33, 66, 228);
+	font-size: 75px;
+	text-align:center;
+	font-size:15vw;
+}
+.sevenpoint{
+	position: relative;
+	top: 700px;
+	color: rgb(33, 66, 228);
+	font-size: 35px;
+	font-family:verdana;
+	text-align:center;
+	font-size:8vw;
+}
+.eightcheck{
+	position: relative;
+	top: 900px;
+	color: rgb(33, 66, 228);
+	font-size: 75px;
+	text-align:center;
+	font-size:15vw;
+}
+.eightpoint{
+	position: relative;
+	top: 800px;
+	color: rgb(33, 66, 228);
+	font-size: 35px;
+	font-family:verdana;
+	text-align:center;
+	font-size:8vw;
+
+}
+.ninepoint{
+	position: relative;
+	top: 970px;
+	font-size:10vw;
+	text-align:center;
+	color: rgb(21, 39, 126);
+	font-size: 45px;
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.firstittle{
+	position: relative;
+	top: 1100px;
+	text-align:center;
+	color: rgb(240, 240, 240);
+	font-size: 45px;
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.firstreview{
+	position: relative;
+	top: 1150px;
+	text-align:center;
+	color: rgb(0, 0, 0);
+	font-size: 15px;
+	border-width:3px; 
+	border-style:solid; 
+	border-color:#000000; 
+	background-color: #F0EFF4; 
+	padding: 1em; 
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.beigebackgroundindex{
+	position:absolute; 
+	top:2300px; 
+	right:0px; 
+	width:1300px; 
+	height:700px;
+}
+.secondreview{
+	position: relative;
+	top: 1200px;
+	text-align:center;
+	color: rgb(0, 0, 0);
+	font-size: 15px;
+	border-width:3px; 
+	border-style:solid; 
+	border-color:#010101; 
+	background-color:#F0EFF4; 
+	padding: 1em; 
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.lovedourservice{
+	position: relative;
+	top: 1350px;
+	text-align:center;
+	color: rgb(0, 0, 0);
+	font-size: 35px;
+	font-family:verdana;
+}
+.conservice{
+	position: relative;
+	top: 1350px;
+    text-align:center;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+	font-family:verdana;
+}
+.autorepairimage{
+	border:5px solid #18187e;
+	position:absolute; 
+	border-radius: 5%; 
+	top:3150px; 
+	right:15px; 
+	width:150px; 
+	height:100px;
+	display:none;
+}
+.autoinfo{
+	position: absolute;
+	top: 3180px;
+	left: 5%;
+	right:15%;
+	color: rgb(16, 18, 54);
+	font-size: 25px;
+	font-family:verdana;
+}
+.autolocation{
+	position: absolute;
+	top: 3260px;
+	left: 5%;
+	right:15%;
+	color: rgb(16, 18, 54);
+	font-size: 25px;
+	font-family:verdana;
+}
+.contactauto{
+	position: absolute;
+	top: 3360px;
+	left: 5%;
+	right:15%;
+	color: rgb(23, 26, 81);
+	font-size: 25px;
+	font-family:verdana;
+}
+.logoimagesecondbottom{
+	position:absolute; 
+	top:3570px;
+	right:30%;
+	left:1%;
+}
+
+ .blacklinehome{
+	top:90px;
+	position:absolute;
+	right:0%;
+	width:700px;
+	height:2px;
+	display:none;
+ }
+ .blacklineimagehomebottom{
+	top:3550px;
+	position:absolute;
+	right:0%;
+	width:700px;
+	height:2px;
+ }
+ .contactsss{
+	position:absolute;
+	top:1830px;
+	color: #2f4491;
+	font-size:23px;
+	text-decoration:none; 
+	position:absolute;
+	right:0%;
+	left:15%
+	
+	
+ }
+.servicess{
+	position:absolute;
+	top:1830px;
+	color: #2f4491;
+	font-size:23px;
+	text-decoration:none; 
+	right:0%;
+	left:35%
+}
+.aislenwebdev{
+	position:absolute;
+	top:3700px ;
+	left:0%;
+	right:0%;
+	background-color: rgb(113, 99, 185);
+	width: auto;
+	text-align: center;
+	color:white;
+	
+	
+}
+
+.quotefirst{
+	font-size: 150px;
+	color:rgb(46, 46, 107);
+	position:absolute;
+	top:2900px;
+	left:80%;
+	right:10%;
+}
+.quotesecond{
+	font-size: 150px;
+	color:rgb(46, 46, 107);
+	position:absolute;
+	top:2350px;
+	left:5%;
+	right:10%;
+	
+}
+.contactusmainphoto{
+	position: absolute; 
+	top: 120px; 
+	right: 0px; 
+}
+.contactusfirstsaying{
+	color: white;
+	position:absolute;
+	font-size:60px;
+	top:200px;
+    right:10%;
+	left:23%
+	
+}
+.contactussecond{
+	color: white;
+	position:absolute;
+	font-size:45px;
+	top:300px;
+	font-family:verdana;
+    right:0%;
+	left:10%
+	
+}
+.contactusimageoftire{
+	border:10px solid #dbcd9a;
+	position:absolute;
+	border-radius: 5%; 
+	top:650px;
+	left:-13%; 
+	right:50%; 
+	
+}
+.promptoneforcontact{
+	color: rgb(0, 0, 0);
+	position:absolute;
+	font-size:20px;
+	top:950px;
+    right:5%;
+	left:5%
+	
+}
+.Promptsecondcontact{
+	color: rgb(0, 0, 0);
+	position:absolute;
+	font-size:20px;
+	top:1180px;
+    right:5%;
+	left:5%
+}
+.promptlastcontact{
+	color: rgb(0, 0, 0);
+	position:absolute;
+	font-size:20px;
+	top:1330px;
+    right:5%;
+	left:5%
+}
+.aislenwebdevtwo{
+	position:absolute;
+	top:1620px ;
+	left:0%;
+	right:0%;
+	background-color: rgb(113, 99, 185);
+	width: auto;
+	text-align: center;
+	color:white;
+}
+.footerslaythird{
+	position:absolute;
+	top:2750px ;
+	left:0px;
+	right:0px;
+	background-color: rgb(91, 81, 81);
+	width: auto;
+	text-align: center;
+
+}
+.logoourservicesimg{
+	position:absolute; 
+	top:2600px;
+	left:-5%;
+}
+.servicesstwo{
+	position:absolute;
+	top:590px;
+	right:10%;
+	left:45%
+
+}
+.hometwo{
+	position:absolute;
+	top:790px;
+	color: #2f4491;
+	font-size:23px;
+	text-decoration:none; 
+	position:absolute;
+	right:0%;
+	left:26%
+}
+.homethree{
+	position:absolute;
+	top:1350px;
+	right:10%;
+	color:#2f4491;
+	left:26%
+	
+}
+.servicessthree{
+	position:absolute;
+	top:750px;
+	right:10%;
+	left:45%
+}
+.contactemailtwo{
+	position:absolute;
+	font-size:30%;
+	top:2500px;
+	left:10%;
+}
+.contactphone{
+	position:absolute;
+	font-size:30px;
+	top:1390px;
+	left:7%;
+	color: blue;
+}
+.contactusnumber{
+	position:absolute;
+	font-size:20px;
+	top:1400px;
+	left:13%;
+	color:rgb(0, 0, 0);
+}
+.emailsign{
+	position:absolute;
+	font-size:30px;
+	top:1430px;
+	left:7%;
+	color: blue;
+}
+.emailroad{
+	position:absolute;
+	font-size:20px;
+	top:1437px;
+	left:13%;
+	color:rgb(0, 0, 0);
+}
+.blacklinecontact{
+	right:0px;
+	position:absolute; 
+	top:1470px;
+}
+.contactusgtjdlogo{
+	position:absolute; 
+	top:1480px;
+	left:-3%;
+}
+.servicesmaintext{
+	position:absolute;
+	font-size: 55px;
+	top:150px;
+	left:20%;
+	color: black;
+}
+.servicsfirsttext{
+	position:absolute;
+	font-size: 20px;
+	top:210px;
+	left:13%;
+	right:10%;
+	color: black;
+}
+.backgroundforourservices{
+	position:absolute; 
+	top:500px; 
+	right:0px; 
+	
+}
+.jumpstartourservicesimg{
+	border-width:7px; 
+	border-style:solid; 
+	border-radius:10px;
+	padding-bottom:8em;
+	padding-left: 1em; 
+	padding-right:1em; 
+	padding-top:1em;
+	border-color:#e2d9bf; 
+	background-color: #F0EFF4;
+	position:absolute; 
+	top:550px; 
+	left:0%;
+	width:250px; 
+	height:200px;
+}
+.Jumpstart{
+	position:absolute;
+	font-size: 23px;
+	top:790px;
+	left:40%;
+	right:10%;
+	color: rgb(0, 0, 0);
+}
+.desjumpstart{
+	position:absolute;
+	font-size: 20px;
+	top:820px;
+	left:27%;
+	right:20%;
+	color: rgb(0, 0, 0);
+}
+.tirechangeimagestyle{
+	border-width:7px;
+	 border-style:solid; 
+	 border-radius:10px;
+	 padding-bottom:8em;
+	 padding-left: 1em; 
+	 padding-right:1em; 
+	 padding-top:1em;
+	 border-color:#e2d9bf; 
+	 background-color: #F0EFF4; 
+	 position:absolute; 
+	 top:970px; 
+	 left:0%; 
+	 width:250px; 
+	 height:200px;
+}
+.tirechangeser{
+	position:absolute;
+	font-size: 23px;
+	top:1210px;
+	left:25%;
+	right:10%;
+	color: rgb(0, 0, 0);
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.tiredescription{
+	position:absolute;
+	font-size: 20px;
+	top:1240px;
+	left:26%;
+	right:20%;
+	color: rgb(0, 0, 0);
+}
+.carlockoutimageourservices{
+	border-width:7px; 
+	border-style:solid; 
+	border-radius:10px;
+	padding-bottom:8em;
+	padding-left: 1em; 
+	padding-right:1em; 
+	padding-top:1em;
+	border-color:#e2d9bf; 
+	background-color: #F0EFF4; 
+	position:absolute; 
+	top:1390px; 
+	left:0%; 
+	width:250px; 
+	height:200px;
+}
+.lockoutservice{
+	position:absolute;
+	font-size: 23px;
+	top:1630px;
+	left:40%;
+	right:20%;
+	color: rgb(0, 0, 0);
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.lockoutdes{
+	position:absolute;
+	font-size: 20px;
+	top:1660px;
+	left:26%;
+	right:20%;
+	color: rgb(0, 0, 0);
+}
+.fueldevimage{
+	border-width:7px; 
+	border-style:solid; 
+	border-radius:10px;
+	padding-bottom:8em;
+	padding-left: 1em; 
+	padding-right:1em; 
+	padding-top:1em;
+	border-color:#e2d9bf; 
+	background-color: #F0EFF4; 
+	position:absolute; 
+	top:1810px; 
+	left:0%; 
+	width:250px; 
+	height:200px;
+}
+.fueldelivery{
+	position:absolute;
+	font-size: 23px;
+	top:2050px;
+	left:34%;
+	right:0%;
+	color: rgb(0, 0, 0);
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.fueldes{
+	position:absolute;
+	font-size: 20px;
+	top:2090px;
+	left:26%;
+	right:25%;
+	color: rgb(0, 0, 0);
+}
+.newbatteryimageourservices{
+	border-width:7px; 
+	border-style:solid; 
+	border-radius:10px;
+	padding-bottom:8em;
+	padding-left: 1em; 
+	padding-right:1em; 
+	padding-top:1em;
+	border-color:#e2d9bf; 
+	background-color: #F0EFF4; 
+	position:absolute; 
+	top:2230px; 
+	left:0%; 
+	width:250px;
+    height:200px;
+}
+.newbattery{
+	position:absolute;
+	font-size: 23px;
+	top:2470px;
+	left:33%;
+	right:25%;
+	color: rgb(0, 0, 0);
+}
+.newbatterydes{
+	position:absolute;
+	font-size: 20px;
+	top:2500px;
+	left:26%;
+	right:25%;
+	color: rgb(0, 0, 0);
+}
+
+img{
+	margin-left:100px;
+	margin-top: 15px;
+}
+
+ 
+a.home{
+	position:absolute ;
+	right: 450px;
+	top: 40px;
+}
+
+a.services{
+	position:absolute ;
+	right: 260px;
+	top: 40px;
+}
+
+a.contact{
+	position:absolute ;
+	right: 100px;
+	top: 40px;
+}
+
+
+
+body{
+background:white;
+  
+		
+}
+@media all and (min-width: 550px) {
+
+	.GTJDlogoprinciple{
+		position:absolute;
+		 max-width: min-content;
+		 width: 300px;
+		 height:100px;
+		 right:50%
+		 
+	}
+	.home{
+		color: #2f4491;
+		font-size:20px;
+		text-decoration:none;
+		position:absolute;
+		left:55%
+		
+	}
+	.services{
+		color: #2f4491;
+		font-size:20px;
+		text-decoration:none;
+		position:absolute;
+		left:70%
+		
+	}
+	.contact{
+		color: #2f4491;
+		font-size:20px;
+		text-decoration:none;
+		position:absolute;
+		left:85%
+	}
+	.homepageimage{
+		position: absolute;
+		top: 120px;
+		right: 0px;
+		width:800px;
+		height:400px;
+		max-width: 100%;
+		
+	}
+	.space{
+		overflow:auto;
+	}
+	.Topcenter{
+		position: absolute;
+		top: 240px;
+		color: white;
+		font-size: 45px;
+		text-align: center;
+		left:17%;
+		right:auto;
+	
+			
+	}
+	.firstmiddlecenter{
+		position: absolute;
+		top: 280px;
+		left: 36%;
+		color: white;
+		font-size: 40px;
+	}
+	.middlecenter{
+	position: absolute;
+	top: 320px;
+	left: 24%;
+	color: white;
+	font-size: 40px;
+	}
+	.lowercenter{
+		position: absolute;
+		top: 380px;
+		left: 27%;
+		color: white;
+		font-size: 45px;
+	}
+	.firstext{
+		position: absolute;
+		top: 520px;
+		left: 23%;
+		color: rgb(0, 0, 0);
+		font-size: 35px;
+		font-family:Verdana;
+	}
+	.secondtext{
+		position: absolute;
+		top: 620px;
+		left: 5%;
+		color: rgb(0, 0, 0);
+		font-size: 25px;
+	}
+	.batterypoppingslay{
+		position:absolute; 
+		top:830px;
+		right:0%;
+		left:5%;
+		width:400px; 
+		height:300px; 
+		border:7px solid #dbcd9a;
+	}
+	.firstcheck{
+		position: absolute;
+		top: 1190px;
+		left: 6%;
+		color: rgb(33, 49, 228);
+		font-size: 35px;
+		
+	}
+	.firstpoint{
+		position: absolute;
+		top: 1200px;
+		left: 12%;
+		color: rgb(0, 0, 0);
+		font-size: 25px;
+	}
+	.secondcheck{
+		position: absolute;
+		top: 1230px;
+		left: 6%;
+		color: rgb(33, 49, 228);
+		font-size: 35px;
+	}
+	.secondpoint{
+		position: absolute;
+		top: 1240px;
+		left: 12%;
+		color: rgb(0, 0, 0);
+		font-size: 25px;
+	}
+	.thirdcheck{
+		position: absolute;
+		top: 1270px;
+		left: 6%;
+		color: rgb(33, 49, 228);
+		font-size: 35px;
+	}
+	.thirdpoint{
+		position: absolute;
+		top: 1280px;
+		left: 12%;
+		color: rgb(0, 0, 0);
+		font-size: 25px;
+	}
+	.fourthcheck{
+		position: absolute;
+		top: 1310px;
+		left: 6%;
+		color: rgb(33, 49, 228);
+		font-size: 35px;
+	}
+	.fourthpoint{
+		position: absolute;
+		top: 1320px;
+		left: 12%;
+		color: rgb(0, 0, 0);
+		font-size: 25px;
+	}
+	.blackbrickwall{
+		position:absolute;
+		top:1350px; 
+		right:0px; 
+		width:800px; 
+		height:600px;
+	}
+	.sixpoint{
+		position: absolute;
+		top: 1400px;
+		left: 25%;
+		font-family:verdana;
+		color: rgb(255, 255, 255);
+		font-size: 45px;
+	}
+	.sixcheck{
+		position: absolute;
+		top: 1440px;
+		left: 43%;
+		color: rgb(33, 66, 228);
+		font-size: 75px;
+	}
+	.sevencheck{
+		position: absolute;
+		top: 1560px;
+		left: 43%;
+		color: rgb(33, 66, 228);
+		font-size: 75px;
+	}
+	.eightcheck{
+		position: absolute;
+		top: 1690px;
+		left: 43%;
+		color: rgb(33, 66, 228);
+		font-size: 75px;
+	}
+	.sixthpoint{
+		position: absolute;
+		top: 1520px;
+		left: 23%;
+		font-family:verdana;
+		color: rgb(33, 66, 228);
+		font-size: 35px;
+	}
+	.sevenpoint{
+		position: absolute;
+		top: 1640px;
+		left: 16%;
+		color: rgb(33, 66, 228);
+		font-size: 35px;
+		font-family:verdana;
+	}
+	.eightpoint{
+		position: absolute;
+		top: 1770px;
+		left: 25%;
+		color: rgb(33, 66, 228);
+		font-size: 35px;
+		font-family:verdana;
+	}
+	.ninepoint{
+		position: absolute;
+		top: 2050px;
+		left: 5%;
+		color: rgb(21, 39, 126);
+		font-size: 45px;
+		font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	}
+	.ninepointsecond{
+		position: absolute;
+		top: 2110px;
+		left: 18%;
+		color: rgb(21, 39, 126);
+		font-size: 45px;
+		font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	}
+	.ninepointthird{
+		position: absolute;
+		top: 2165px;
+		left: 5%;
+		color: rgb(21, 39, 126);
+		font-size: 45px;
+		font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	}
+	
+	
+	
+}
+
+
+@media all and (min-width: 769px) {
+.GTJDlogoprinciple{
+	position:absolute;
+	 max-width: min-content;
+	 width: 300px;
+	 height:100px;
+	 right:60%
+	 
+}
+.home{
+	color: #2f4491;
+	font-size:30px;
+	text-decoration:none;
+	position:absolute;
+	left:45%
+	
+}
+.services{
+	color: #2f4491;
+	font-size:30px;
+	text-decoration:none;
+	position:absolute;
+	right:0%;
+	left:62%
+	
+}
+.contact{
+	color: #2f4491;
+	font-size:30px;
+	text-decoration:none;
+	position:absolute;
+	right:0%;
+	left:80%
+}
+.homepageimage{
+	position: absolute;
+	top: 120px;
+	right: 0px;
+	width:1200px;
+	height:400px;
+	max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+.space{
+	overflow:auto;
+}
+.Topcenter{
+	position: absolute;
+	top: 200px;
+	left: 15%;
+	color: white;
+	font-size: 55px;
+		
+}
+.firstmiddlecenter{
+	position: absolute;
+	top: 250px;
+	left: 35%;
+	color: white;
+	font-size: 50px;
+}
+.middlecenter{
+position: absolute;
+top: 300px;
+left: 20%;
+color: white;
+font-size: 50px;
+}
+.lowercenter{
+	position: absolute;
+	top: 360px;
+	left: 25%;
+	color: white;
+	font-size: 55px;
+}
+.firstext{
+	position: absolute;
+	top: 520px;
+	left: 20%;
+	color: rgb(0, 0, 0);
+	font-size: 45px;
+	font-family:Verdana;
+}
+.secondtext{
+	position: absolute;
+	top: 630px;
+	left: 5%;
+	right:5%;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+}
+.batterypoppingslay{
+	position:absolute; 
+	top:780px;
+    right:350px;
+	width:400px; 
+	height:300px; 
+	border:7px solid #dbcd9a;
+}
+.firstcheck{
+	position: absolute;
+	top: 810px;
+	left: 58%;
+	color: rgb(33, 49, 228);
+	font-size: 50px;
+	
+}
+.firstpoint{
+	position: absolute;
+	top: 830px;
+	left: 65%;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+}
+.secondcheck{
+	position: absolute;
+	top: 860px;
+	left: 58%;
+	color: rgb(33, 49, 228);
+	font-size: 50px;
+}
+.secondpoint{
+	position: absolute;
+	top: 880px;
+	left: 65%;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+}
+.thirdcheck{
+	position: absolute;
+	top: 910px;
+	left: 58%;
+	color: rgb(33, 49, 228);
+	font-size: 50px;
+}
+.thirdpoint{
+	position: absolute;
+	top: 930px;
+	left: 65%;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+}
+.fourthcheck{
+	position: absolute;
+	top: 960px;
+	left: 58%;
+	color: rgb(33, 49, 228);
+	font-size: 50px;
+}
+.fourthpoint{
+	position: absolute;
+	top: 980px;
+	left: 65%;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+}
+.blackbrickwall{
+	position:absolute;
+	top:1150px; 
+	right:0px; 
+	width:900px; 
+	height:600px;
+}
+.sixpoint{
+	position: absolute;
+	top: 1200px;
+	left: 25%;
+	font-family:verdana;
+	color: rgb(255, 255, 255);
+	font-size: 45px;
+}
+.sixcheck{
+	position: absolute;
+	top: 1270px;
+	left: 45%;
+	color: rgb(33, 66, 228);
+	font-size: 75px;
+}
+.sevencheck{
+	position: absolute;
+	top: 1410px;
+	left: 45%;
+	color: rgb(33, 66, 228);
+	font-size: 75px;
+}
+.eightcheck{
+	position: absolute;
+	top: 1550px;
+	left: 45%;
+	color: rgb(33, 66, 228);
+	font-size: 75px;
+}
+.sixthpoint{
+	position: absolute;
+	top: 1350px;
+	left: 28%;
+	font-family:verdana;
+	color: rgb(33, 66, 228);
+	font-size: 45px;
+}
+.sevenpoint{
+	position: absolute;
+	top: 1490px;
+	left: 23%;
+	color: rgb(33, 66, 228);
+	font-size: 45px;
+}
+.eightpoint{
+	position: absolute;
+	top: 1640px;
+	left: 29%;
+	color: rgb(33, 66, 228);
+	font-size: 45px;
+}
+.ninepoint{
+	position: absolute;
+	top: 1800px;
+	left: 13%;
+	color: rgb(21, 39, 126);
+	font-size: 50px;
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.ninepointsecond{
+	position: absolute;
+	top: 1870px;
+	left: 13%;
+	color: rgb(21, 39, 126);
+	font-size: 50px;
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.ninepointthird{
+	position: absolute;
+	top: 1870px;
+	left: 53%;
+	color: rgb(21, 39, 126);
+	font-size: 50px;
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.firstittle{
+	position: absolute;
+	top: 2050px;
+	left: 29%;
+	color: rgb(240, 240, 240);
+	font-size: 55px;
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.firstreview{
+	position: absolute;
+	top: 2130px;
+	left: 10%;
+	right:5%;
+	color: rgb(0, 0, 0);
+	font-size: 15px;
+	border-width:3px; 
+	border-style:solid; 
+	border-color:#000000; 
+	background-color: #F0EFF4; 
+	padding: 1em; 
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.beigebackgroundindex{
+	position:absolute; 
+	top:2000px; 
+	right:0px; 
+	width:900px; 
+	height:600px;
+}
+.secondreview{
+	position: absolute;
+	top: 2400px;
+	left: 10%;
+	right:5%;
+	color: rgb(0, 0, 0);
+	font-size: 15px;
+	border-width:3px; 
+	border-style:solid; 
+	border-color:#010101; 
+	background-color:#F0EFF4; 
+	padding: 1em; 
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.quotefirst{
+	font-size: 150px;
+	color:rgb(46, 46, 107);
+	position:absolute;
+	top:2500px;
+	left:90%;
+	right:0%;
+}
+.quotesecond{
+	font-size: 150px;
+	color:rgb(46, 46, 107);
+	position:absolute;
+	top:2050px;
+	left:5%;
+	right:10%;
+	
+}
+.lovedourservice{
+	position: absolute;
+	top: 2650px;
+	left: 25%;
+	right:0%;
+	color: rgb(0, 0, 0);
+	font-size: 45px;
+	font-family:verdana;
+}
+.conservice{
+	position: absolute;
+	top: 2720px;
+	left: 27%;
+	right:0%;
+	color: rgb(0, 0, 0);
+	font-size: 35px;
+	font-family:verdana;
+}
+.autorepairimage{
+	border:5px solid #18187e;
+	position:absolute; 
+	border-radius: 5%; 
+	top:2750px; 
+	right:15px; 
+	width:200px; 
+	height:150px;
+	display:none;
+}
+.autoinfo{
+	position: absolute;
+	top: 2800px;
+	left: 5%;
+	right:15%;
+	color: rgb(16, 18, 54);
+	font-size: 30px;
+	font-family:verdana;
+}
+.autolocation{
+	position: absolute;
+	top: 2880px;
+	left: 5%;
+	right:15%;
+	color: rgb(16, 18, 54);
+	font-size: 30px;
+	font-family:verdana;
+}
+.contactauto{
+	position: absolute;
+	top: 2960px;
+	left: 5%;
+	right:15%;
+	color: rgb(23, 26, 81);
+	font-size: 30px;
+	font-family:verdana;
+}
+.logoimagesecondbottom{
+	position:absolute; 
+	top:3100px;
+	right:40%;
+	left:10;
+}
+.blacklineimagehomebottom{
+	top:3090px;
+	position:absolute;
+	right:0%;
+	width:1000px;
+	height:2px;
+}
+.blacklinehome{
+	top:90px;
+	position:absolute;
+	right:0%;
+	width:700px;
+	height:2px;
+	display:none;
+ }
+ .contactsss{
+	position:absolute;
+	top:1565px;
+	color: #2f4491;
+	font-size:30px;
+	text-decoration:none; 
+	position:absolute;
+	right:0%;
+	left:35%
+	
+	
+ }
+.servicess{
+	position:absolute;
+	top:1565px;
+	color: #2f4491;
+	font-size:30px;
+	text-decoration:none; 
+	right:0%;
+	left:55%
+}
+.aislenwebdev{
+	position:absolute;
+	top:3200px ;
+	left:0%;
+	right:0%;
+	background-color: rgb(113, 99, 185);
+	width: auto;
+	text-align: center;
+	color:white;
+	
+	
+}
+.contactusmainphoto{
+	position: absolute; 
+	top: 120px; 
+	right: 0px; 
+	width:900px;
+	height:500px;
+}
+.contactusfirstsaying{
+	color: white;
+	position:absolute;
+	font-size:75px;
+	top:200px;
+    right:10%;
+	left:30%
+	
+}
+.contactussecond{
+	color: white;
+	position:absolute;
+	font-size:50px;
+	top:300px;
+	font-family:verdana;
+    right:20%;
+	left:25%
+	
+}
+.contactusimageoftire{
+	border:10px solid #dbcd9a;
+	position:absolute;
+	border-radius: 5%; 
+	top:650px;
+	left:6%; 
+	right:50%; 
+	width:500px;
+	height:300px;
+	
+}
+.promptoneforcontact{
+	color: rgb(0, 0, 0);
+	position:absolute;
+	font-size:20px;
+	top:990px;
+    right:5%;
+	left:5%
+	
+}
+.Promptsecondcontact{
+	color: rgb(0, 0, 0);
+	position:absolute;
+	font-size:20px;
+	top:1140px;
+    right:5%;
+	left:5%
+}
+.promptlastcontact{
+	color: rgb(0, 0, 0);
+	position:absolute;
+	font-size:20px;
+	top:1260px;
+    right:5%;
+	left:5%
+}
+.aislenwebdevtwo{
+	position:absolute;
+	top:1600px ;
+	left:0%;
+	right:0%;
+	background-color: rgb(113, 99, 185);
+	width: auto;
+	text-align: center;
+	color:white;
+}
+.hometwo{
+	position:absolute;
+	top:760px;
+	color: #2f4491;
+	font-size:30px;
+	text-decoration:none; 
+	position:absolute;
+	right:0%;
+	left:40%
+}
+}
+
+
+
+
+@media all and (min-width: 1024px){
+	.GTJDlogoprinciple{
+		position:absolute;
+		 max-width: min-content;
+		 width: 500px;
+		 height:500px;
+		 right:60%
+		 2
+	}
+
+
+
+
+}
