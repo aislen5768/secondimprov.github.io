@@ -9,7 +9,7 @@
 .GTJDlogoprinciple{
 	position:absolute;
 	 max-width: min-content;
-	 right:60%
+	 right:55%
 }
 .services{
 	color: #2f4491;
@@ -185,7 +185,7 @@ font-size:7vw;
 }
 .sixpoint{
 	position: relative;
-	top: 800px;
+	top: 830px;
 	font-family:verdana;
 	color: rgb(255, 255, 255);
 	font-size: 35px;
@@ -194,15 +194,16 @@ font-size:7vw;
 }
 .sixcheck{
 	position: relative;
-	top: 800px;
+	top: 840px;
 	color: rgb(33, 66, 228);
 	font-size: 75px;
 	text-align:center;
 	font-size:15vw;
+	display:none;
 }
 .sixthpoint{
 	position: relative;
-	top: 600px;
+	top: 850px;
 	font-family:verdana;
 	color: rgb(33, 66, 228);
 	font-size: 35px;
@@ -211,15 +212,16 @@ font-size:7vw;
 }
 .sevencheck{
 	position: relative;
-	top: 850px;
+	top: 900px;
 	color: rgb(33, 66, 228);
 	font-size: 75px;
 	text-align:center;
 	font-size:15vw;
+	display:none;
 }
 .sevenpoint{
 	position: relative;
-	top: 700px;
+	top: 950px;
 	color: rgb(33, 66, 228);
 	font-size: 35px;
 	font-family:verdana;
@@ -233,10 +235,11 @@ font-size:7vw;
 	font-size: 75px;
 	text-align:center;
 	font-size:15vw;
+	display:none;
 }
 .eightpoint{
 	position: relative;
-	top: 800px;
+	top: 1050px;
 	color: rgb(33, 66, 228);
 	font-size: 35px;
 	font-family:verdana;
@@ -246,7 +249,7 @@ font-size:7vw;
 }
 .ninepoint{
 	position: relative;
-	top: 970px;
+	top: 1300px;
 	font-size:10vw;
 	text-align:center;
 	color: rgb(21, 39, 126);
@@ -257,19 +260,21 @@ font-size:7vw;
 
 .firstittle{
 	position: relative;
-	top: 1100px;
+	top: 1400px;
 	text-align:center;
 	color: rgb(240, 240, 240);
 	font-size: 45px;
+	font-size:8vw;
 	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .firstreview{
 	position: relative;
-	top: 1150px;
+	top: 1450px;
 	text-align:center;
 	color: rgb(0, 0, 0);
 	font-size: 15px;
 	border-width:3px; 
+	font-size:3vw;
 	border-style:solid; 
 	border-color:#000000; 
 	background-color: #F0EFF4; 
@@ -286,8 +291,9 @@ font-size:7vw;
 }
 .secondreview{
 	position: relative;
-	top: 1200px;
+	top: 1550px;
 	text-align:center;
+	font-size:3vw;
 	color: rgb(0, 0, 0);
 	font-size: 15px;
 	border-width:3px; 
@@ -299,16 +305,18 @@ font-size:7vw;
 }
 .lovedourservice{
 	position: relative;
-	top: 1350px;
+	top: 1700px;
 	text-align:center;
 	color: rgb(0, 0, 0);
 	font-size: 35px;
 	font-family:verdana;
+	font-size:7vw;
 }
 .conservice{
 	position: relative;
-	top: 1350px;
+	top: 1710px;
     text-align:center;
+	font-size:6vw;
 	color: rgb(0, 0, 0);
 	font-size: 25px;
 	font-family:verdana;
@@ -325,18 +333,20 @@ font-size:7vw;
 }
 .autoinfo{
 	position: absolute;
-	top: 3180px;
+	top: 3190px;
 	left: 5%;
 	right:15%;
 	color: rgb(16, 18, 54);
 	font-size: 25px;
 	font-family:verdana;
+	font-size:6vw;
 }
 .autolocation{
 	position: absolute;
 	top: 3260px;
 	left: 5%;
 	right:15%;
+	font-size:5vw;
 	color: rgb(16, 18, 54);
 	font-size: 25px;
 	font-family:verdana;
@@ -346,6 +356,7 @@ font-size:7vw;
 	top: 3360px;
 	left: 5%;
 	right:15%;
+	font-size:5vw;
 	color: rgb(23, 26, 81);
 	font-size: 25px;
 	font-family:verdana;
